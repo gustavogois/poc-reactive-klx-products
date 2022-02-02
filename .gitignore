@@ -1,0 +1,40 @@
+# Project exclude paths
+/product-composite-service/target/
+/product-service/target/
+/recommendation-service/target/
+/review-service/target/
+/.idea/
+
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/target/
+
+# Maven
+log/
+target/
+
+/.idea/
